@@ -1,4 +1,6 @@
 # Road Map
+* create Jupyter Notebook
+
 * Implementation
 	* for 10 points question 
 		* Plot #1 (no information so far) 
@@ -17,6 +19,7 @@
 	* for 20 points question: justify your selection and identify interesting features in the graph (Clustering Visualisation)
 	* for 20 points question: justify the functionality, design, colour selection and any other details that you deem important.
 	* for 30 points question: minimal description about dashboard
+	* prettify Jupyter Notebook
 
 # Time MGMT
 * implementation
