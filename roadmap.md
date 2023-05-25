@@ -1,3 +1,5 @@
+
+
 # Road Map
 * create Jupyter Notebook
 
@@ -10,6 +12,7 @@
 		* Clustering Visualisation (no justification so far)
 	* for 20 points question
 		* Interactive Plot #1 (no justification so far)
+		* https://towardsdatascience.com/using-plotly-express-to-create-interactive-scatter-plots-3699d8279b9e
 		* Interactive Plot #2 (no justification so far)
 	* for 30 points question
 		* Dashboard that encompasses 2 visualisations
