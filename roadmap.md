@@ -1,20 +1,7 @@
 
 
 # Road Map
-* create Jupyter Notebook
 
-* Implementation
-	* for 10 points question 
-		* Plot #1 (no information so far) 
-		* Plot #2 (no information so far) 
-		* Plot #3 (no information so far)
-	* for 20 points question
-		* Clustering Visualisation (no justification so far)
-	* for 20 points question
-		* Interactive Plot #1 (no justification so far)
-		* Interactive Plot #2 (no justification so far)
-	* for 30 points question
-		* Dashboard that encompasses 2 visualisations
 
 * Justification/Information/Report
 	* for 10 points question: explain in the information that the 3 visualisations provide. 
