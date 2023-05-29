@@ -1,11 +1,6 @@
 
 
 # Road Map
-* count words
-* correct english and zerogpt
-* comment code
-* fill content in jupyter 
-
 
 
 
